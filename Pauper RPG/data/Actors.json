@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":2,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Terry","nickname":"Terry","note":"","profile":"The leader of the Tribe. Headstrong and noble, but can often get the group into trouble unwittingly."},
+{"id":2,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Larry","nickname":"Larry","note":"","profile":"Member of the tribe. Quiet and steadfast."},
+{"id":3,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":2,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harry","nickname":"Harry","note":"","profile":"The \"wild one\" of the group, although \nthe others can put up with his shit."},
+{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""}
+]
